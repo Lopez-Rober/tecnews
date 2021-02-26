@@ -1,0 +1,2049 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tecnews.stdsdn.com" resolutions="1x" timestamp="1614101252514">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_principal.css" crc="352174109" ref="contacto:inteligencia-artificial:audio---tecnews:nosotros:gadgets:noticias-día:lanzamientos:políticas-de-privacidad:index:terminos-y-condiciones:videojuegos:preguntas_frecuentes:youtube:explorar:spotify:misión-visión:smartphones"/>
+    <file name="nomq_preview_master_principal.css" crc="4156997330" ref="contacto:inteligencia-artificial:audio---tecnews:nosotros:gadgets:noticias-día:lanzamientos:políticas-de-privacidad:index:terminos-y-condiciones:videojuegos:preguntas_frecuentes:youtube:explorar:spotify:misión-visión:smartphones"/>
+    <file name="contacto.css" crc="180123259" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="4034390334" ref="contacto"/>
+    <file name="inteligencia-artificial.css" crc="165175057" ref="inteligencia-artificial"/>
+    <file name="nomq_inteligencia-artificial.css" crc="3813619840" ref="inteligencia-artificial"/>
+    <file name="audio---tecnews.css" crc="3989476651" ref="audio---tecnews"/>
+    <file name="nomq_audio---tecnews.css" crc="422540206" ref="audio---tecnews"/>
+    <file name="nosotros.css" crc="364375777" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="508668622" ref="nosotros"/>
+    <file name="gadgets.css" crc="462877566" ref="gadgets"/>
+    <file name="nomq_gadgets.css" crc="359431375" ref="gadgets"/>
+    <file name="noticias-d_a.css" crc="444307429" ref="noticias-día"/>
+    <file name="nomq_noticias-d_a.css" crc="4070583307" ref="noticias-día"/>
+    <file name="lanzamientos.css" crc="3840584440" ref="lanzamientos"/>
+    <file name="nomq_lanzamientos.css" crc="51165290" ref="lanzamientos"/>
+    <file name="pol_ticas-de-privacidad.css" crc="3774990075" ref="políticas-de-privacidad"/>
+    <file name="nomq_pol_ticas-de-privacidad.css" crc="4126317417" ref="políticas-de-privacidad"/>
+    <file name="index.css" crc="318691791" ref="index"/>
+    <file name="nomq_index.css" crc="1981542" ref="index"/>
+    <file name="terminos-y-condiciones.css" crc="4103902070" ref="terminos-y-condiciones"/>
+    <file name="nomq_terminos-y-condiciones.css" crc="3889501966" ref="terminos-y-condiciones"/>
+    <file name="videojuegos.css" crc="322655717" ref="videojuegos"/>
+    <file name="nomq_videojuegos.css" crc="382609862" ref="videojuegos"/>
+    <file name="preguntas_frecuentes.css" crc="268172088" ref="preguntas_frecuentes"/>
+    <file name="nomq_preguntas_frecuentes.css" crc="320497879" ref="preguntas_frecuentes"/>
+    <file name="youtube.css" crc="4022580115" ref="youtube"/>
+    <file name="nomq_youtube.css" crc="404311787" ref="youtube"/>
+    <file name="explorar.css" crc="259125665" ref="explorar"/>
+    <file name="nomq_explorar.css" crc="3814645438" ref="explorar"/>
+    <file name="spotify.css" crc="4291728449" ref="spotify"/>
+    <file name="nomq_spotify.css" crc="3848209769" ref="spotify"/>
+    <file name="misi_n-visi_n.css" crc="388360349" ref="misión-visión"/>
+    <file name="nomq_misi_n-visi_n.css" crc="328465272" ref="misión-visión"/>
+    <file name="smartphones.css" crc="4238437117" ref="smartphones"/>
+    <file name="nomq_smartphones.css" crc="3774706277" ref="smartphones"/>
+  </folder>
+  <folder name="assets">
+    <file name="videojuego_2.jpg" crc="3880875610" seo="true" mt="1611462531000"/>
+    <file name="episodio_01.mp3" crc="4174128903" seo="true" mt="1612742893000"/>
+    <file name="episodio_2.mp3" crc="259718709" seo="true" mt="1612743084000"/>
+    <file name="episodio_03.mp3" crc="365841855" seo="true" mt="1612743255000"/>
+    <file name="episodio_4.mp3" crc="3897658698" seo="true" mt="1612743452000"/>
+    <file name="episodio_5.mp3" crc="312136129" seo="true" mt="1612743753000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="webpro.js" crc="242022427" ref="index:nosotros:spotify:misión-visión:contacto:preguntas_frecuentes"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:spotify"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:spotify"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:spotify"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="require.js" crc="4157109226" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="nosotros:misión-visión:preguntas_frecuentes"/>
+    <file name="form_check.php" crc="147359589" ref="contacto"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacto"/>
+    <file name="form_process.php" crc="3851993751" ref="contacto"/>
+    <file name="form-u3722.php" crc="4004292558" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3968265295" ref="index"/>
+    <file name="background_1.jpg" crc="447715145" ref="index:noticias-día:videojuegos:gadgets:smartphones:misión-visión:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+    </file>
+    <file name="logo tecnews.png" crc="447154706" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u16784-4.png" crc="505190554" ref="index"/>
+    <file name="tendencia_1.jpg" crc="4100777631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16774-4.png" crc="300887563" ref="index"/>
+    <file name="tendencia_2.jpg" crc="3933510814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16780-4.png" crc="154348386" ref="index"/>
+    <file name="tendencia_3.jpg" crc="140721495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favorito_1.png" crc="4013702720" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="comentario.png" crc="74775008" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="compartir.png" crc="54592301" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="telefono-crop-u1742.png" crc="493840475" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="twitter-crop-u1828.png" crc="4195318669" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="youtube.png" crc="517628924" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="facebook.png" crc="150276008" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="3804411187" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="correo-electronico-crop-u3582.png" crc="103099239" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u3628-4.png" crc="3903368902" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u4123-4.png" crc="3860955440" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u4183-4.png" crc="87276623" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u16784-42.png" crc="168546953" ref="index"/>
+    <file name="tendencia_1958x391.jpg" crc="4210084162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16774-42.png" crc="446402916" ref="index"/>
+    <file name="tendencia_2955x389.jpg" crc="3785954326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16780-42.png" crc="4013972742" ref="index"/>
+    <file name="tendencia_3956x390.jpg" crc="275426252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16784-43.png" crc="4030837676" ref="index"/>
+    <file name="tendencia_1766x313.jpg" crc="3990698803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16774-43.png" crc="4101040312" ref="index"/>
+    <file name="tendencia_2764x312.jpg" crc="4080821977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16780-43.png" crc="3948620938" ref="index"/>
+    <file name="tendencia_3765x312.jpg" crc="4009900575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefono.png" crc="227380444" seo="true" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="preguntas_frecuentes" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="terminos-y-condiciones" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="misión-visión" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="políticas-de-privacidad" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="lanzamientos" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u492.png" crc="418425805" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u492-a.png" crc="100882951" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u488.png" crc="150798256" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u488-a.png" crc="340206549" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u531.png" crc="140696577" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u531-a.png" crc="14962992" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u552.png" crc="4062236036" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u552-a.png" crc="20075364" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u572.png" crc="384335190" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u572-a.png" crc="3761849855" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u615.png" crc="60896745" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u615-a.png" crc="3804709872" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u1489-4.png" crc="398236965" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u1506-4.png" crc="91578005" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u1535-4.png" crc="441444286" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u4204-4.png" crc="144381658" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u6554-4.png" crc="3788560540" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u635.png" crc="285755611" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u635-a.png" crc="4103080614" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u3667.png" crc="16844949" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u3667-r.png" crc="9090522" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u3667-a.png" crc="528330060" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u3873.png" crc="3993706377" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u3873-r.png" crc="3888783383" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u3873-a.png" crc="496125967" ref="index:noticias-día:videojuegos:gadgets:smartphones:inteligencia-artificial:nosotros:explorar:spotify:youtube:misión-visión:contacto:audio---tecnews:terminos-y-condiciones:políticas-de-privacidad:preguntas_frecuentes:lanzamientos"/>
+    <file name="u16784-44.png" crc="3883746121" ref="index"/>
+    <file name="tendencia_1613x250.jpg" crc="3921082331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16774-44.png" crc="337032481" ref="index"/>
+    <file name="tendencia_2612x249.jpg" crc="4272663569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16780-44.png" crc="3848610404" ref="index"/>
+    <file name="tendencia_3612x250.jpg" crc="292915206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16784-45.png" crc="49333745" ref="index"/>
+    <file name="tendencia_1383x157.jpg" crc="463137186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16774-45.png" crc="4144311470" ref="index"/>
+    <file name="tendencia_2382x156.jpg" crc="3866053958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16780-45.png" crc="181668571" ref="index"/>
+    <file name="tendencia_3383x156.jpg" crc="3969471071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2717-4.png" crc="3814149662" ref="noticias-día"/>
+    <file name="noticia_1-crop-u2680.jpg" crc="4058430861" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u2736-5.png" crc="81904367" ref="noticias-día"/>
+    <file name="u4347-5.png" crc="3867874296" ref="noticias-día"/>
+    <file name="noticia_2-crop-u2701.jpg" crc="145372597" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u2758-4.png" crc="4089537519" ref="noticias-día"/>
+    <file name="noticia_3-crop-u2704.jpg" crc="3941180971" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u3983-6.png" crc="52561589" ref="noticias-día"/>
+    <file name="imagen pegada 1200x675.jpg" crc="3921547478" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4136-7.png" crc="4004120179" ref="noticias-día"/>
+    <file name="noticia_3-crop-u27042.jpg" crc="4033274341" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u2758-42.png" crc="4006637004" ref="noticias-día"/>
+    <file name="u2717-42.png" crc="4121580787" ref="noticias-día"/>
+    <file name="noticia_1-crop-u26802.jpg" crc="3962764703" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u2736-52.png" crc="4109428160" ref="noticias-día"/>
+    <file name="noticia_2-crop-u27012.jpg" crc="4075470815" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4347-52.png" crc="403554370" ref="noticias-día"/>
+    <file name="u3983-62.png" crc="4178801100" ref="noticias-día"/>
+    <file name="imagen pegada 1200x675512x288.jpg" crc="348735258" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4136-72.png" crc="42438695" ref="noticias-día"/>
+    <file name="u2717-43.png" crc="233131588" ref="noticias-día"/>
+    <file name="noticia_1-crop-u26803.jpg" crc="61664294" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u2736-53.png" crc="16793314" ref="noticias-día"/>
+    <file name="noticia_2-crop-u27013.jpg" crc="366979869" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4347-53.png" crc="487929677" ref="noticias-día"/>
+    <file name="u2758-43.png" crc="4106792566" ref="noticias-día"/>
+    <file name="u13751-5.png" crc="487929677" ref="noticias-día"/>
+    <file name="noticia_3-crop-u27043.jpg" crc="4249597828" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u3983-63.png" crc="490824525" ref="noticias-día"/>
+    <file name="imagen pegada 1200x675410x231.jpg" crc="4246335579" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4136-73.png" crc="3776650676" ref="noticias-día"/>
+    <file name="u2717-44.png" crc="190774679" ref="noticias-día"/>
+    <file name="noticia_1-crop-u26804.jpg" crc="459438827" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u2736-54.png" crc="3918634914" ref="noticias-día"/>
+    <file name="noticia_2-crop-u27014.jpg" crc="4222836447" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4347-54.png" crc="493155819" ref="noticias-día"/>
+    <file name="u2758-44.png" crc="324369017" ref="noticias-día"/>
+    <file name="u13751-52.png" crc="3793642985" ref="noticias-día"/>
+    <file name="noticia_3-crop-u27044.jpg" crc="4032946669" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u3983-64.png" crc="3772914196" ref="noticias-día"/>
+    <file name="imagen pegada 1200x675328x185.jpg" crc="247740501" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4136-74.png" crc="4178503046" ref="noticias-día"/>
+    <file name="u2717-45.png" crc="3787560132" ref="noticias-día"/>
+    <file name="noticia_1-crop-u26805.jpg" crc="4142703587" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4347-55.png" crc="4145696775" ref="noticias-día"/>
+    <file name="u2736-55.png" crc="84588764" ref="noticias-día"/>
+    <file name="noticia_2-crop-u27015.jpg" crc="526652855" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u13751-53.png" crc="4181140386" ref="noticias-día"/>
+    <file name="u2758-45.png" crc="3877172904" ref="noticias-día"/>
+    <file name="noticia_3-crop-u27045.jpg" crc="457666271" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u3983-65.png" crc="83572670" ref="noticias-día"/>
+    <file name="imagen pegada 1200x675205x116.jpg" crc="3960635870" seo="true" ref="noticias-día">
+      <caption webpage="noticias-día" alt=""/>
+    </file>
+    <file name="u4136-75.png" crc="392403995" ref="noticias-día"/>
+    <file name="u2831-4.png" crc="3960681335" ref="videojuegos"/>
+    <file name="videojuego_1-crop-u2824.png" crc="4108090754" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2837-4.png" crc="4150388050" ref="videojuegos"/>
+    <file name="u4361-5.png" crc="3867874296" ref="videojuegos"/>
+    <file name="videojuego_2-crop-u2940.jpg" crc="3890272437" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2834-4.png" crc="4064893795" ref="videojuegos"/>
+    <file name="videojuego_3-crop-u2957.jpg" crc="167254041" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4040-5.png" crc="4000711481" ref="videojuegos"/>
+    <file name="videojuego_4.jpg" crc="4258214480" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4154-7.png" crc="4004120179" ref="videojuegos"/>
+    <file name="u2837-42.png" crc="4133289829" ref="videojuegos"/>
+    <file name="videojuego_2-crop-u29402.jpg" crc="4226867978" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2834-42.png" crc="349061544" ref="videojuegos"/>
+    <file name="videojuego_3-crop-u29572.jpg" crc="364033307" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="videojuego_1-crop-u28242.png" crc="4132643637" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2831-42.png" crc="4124135758" ref="videojuegos"/>
+    <file name="u4361-52.png" crc="4145696775" ref="videojuegos"/>
+    <file name="u4040-52.png" crc="3762742381" ref="videojuegos"/>
+    <file name="u4154-72.png" crc="42438695" ref="videojuegos"/>
+    <file name="u2831-43.png" crc="4099244747" ref="videojuegos"/>
+    <file name="videojuego_1-crop-u28243.png" crc="4199186222" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2837-43.png" crc="4188351640" ref="videojuegos"/>
+    <file name="videojuego_2-crop-u29403.jpg" crc="60668321" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4361-53.png" crc="3909370258" ref="videojuegos"/>
+    <file name="u2834-43.png" crc="4026452162" ref="videojuegos"/>
+    <file name="videojuego_3-crop-u29573.jpg" crc="4229312773" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4040-53.png" crc="4079614736" ref="videojuegos"/>
+    <file name="videojuego_4410x230.jpg" crc="293327666" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4154-73.png" crc="3762147336" ref="videojuegos"/>
+    <file name="u2837-44.png" crc="4077496262" ref="videojuegos"/>
+    <file name="videojuego_2-crop-u29404.jpg" crc="233408420" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2831-44.png" crc="3807596084" ref="videojuegos"/>
+    <file name="videojuego_1-crop-u28244.png" crc="3973653896" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4361-54.png" crc="441139974" ref="videojuegos"/>
+    <file name="u2834-44.png" crc="101064533" ref="videojuegos"/>
+    <file name="videojuego_3-crop-u29574.jpg" crc="4116397487" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4040-54.png" crc="4007553726" ref="videojuegos"/>
+    <file name="videojuego_4328x184.jpg" crc="253334990" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4154-74.png" crc="38331469" ref="videojuegos"/>
+    <file name="u2831-45.png" crc="296419920" ref="videojuegos"/>
+    <file name="videojuego_1-crop-u28245.png" crc="367337311" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4361-55.png" crc="3948015819" ref="videojuegos"/>
+    <file name="u2837-45.png" crc="117784654" ref="videojuegos"/>
+    <file name="videojuego_2-crop-u29405.jpg" crc="4191301142" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u2834-45.png" crc="478555780" ref="videojuegos"/>
+    <file name="videojuego_3-crop-u29575.jpg" crc="473062115" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4040-55.png" crc="3912603955" ref="videojuegos"/>
+    <file name="videojuego_4205x115.jpg" crc="3819918879" seo="true" ref="videojuegos">
+      <caption webpage="videojuegos" alt=""/>
+    </file>
+    <file name="u4154-75.png" crc="3959905034" ref="videojuegos"/>
+    <file name="gadget_1-crop-u3003.jpg" crc="3852088149" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3005-4.png" crc="535611822" ref="gadgets"/>
+    <file name="gadget_2-crop-u3026.jpg" crc="3772500028" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3028-4.png" crc="399410186" ref="gadgets"/>
+    <file name="gadget_3-crop-u3053.jpg" crc="414352786" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3055-4.png" crc="3817575319" ref="gadgets"/>
+    <file name="u4069-5.png" crc="446229519" ref="gadgets"/>
+    <file name="videojuego_5.jpg" crc="478307356" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u4370-5.png" crc="3867874296" ref="gadgets"/>
+    <file name="u4142-7.png" crc="4004120179" ref="gadgets"/>
+    <file name="gadget_1-crop-u30032.jpg" crc="263073344" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3005-42.png" crc="4202023922" ref="gadgets"/>
+    <file name="gadget_2-crop-u30262.jpg" crc="471216550" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3028-42.png" crc="4215222919" ref="gadgets"/>
+    <file name="gadget_3-crop-u30532.jpg" crc="3986586535" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3055-42.png" crc="357713963" ref="gadgets"/>
+    <file name="u4069-52.png" crc="3960062975" ref="gadgets"/>
+    <file name="u4370-52.png" crc="241929500" ref="gadgets"/>
+    <file name="u15079-5.png" crc="241929500" ref="gadgets"/>
+    <file name="u4142-72.png" crc="42438695" ref="gadgets"/>
+    <file name="gadget_1-crop-u30033.jpg" crc="532898546" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3005-43.png" crc="97966721" ref="gadgets"/>
+    <file name="gadget_2-crop-u30263.jpg" crc="262742221" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3028-43.png" crc="4086692844" ref="gadgets"/>
+    <file name="gadget_3-crop-u30533.jpg" crc="462025433" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3055-43.png" crc="4228824930" ref="gadgets"/>
+    <file name="u4370-53.png" crc="364715832" ref="gadgets"/>
+    <file name="u4069-53.png" crc="27145843" ref="gadgets"/>
+    <file name="videojuego_5410x230.jpg" crc="3770200693" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u4142-73.png" crc="3881603221" ref="gadgets"/>
+    <file name="gadget_1-crop-u30034.jpg" crc="425499904" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3005-44.png" crc="330321546" ref="gadgets"/>
+    <file name="gadget_2-crop-u30264.jpg" crc="4110492004" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3028-44.png" crc="221928564" ref="gadgets"/>
+    <file name="gadget_3-crop-u30534.jpg" crc="113191383" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3055-44.png" crc="87113703" ref="gadgets"/>
+    <file name="u4370-54.png" crc="463061437" ref="gadgets"/>
+    <file name="u4069-54.png" crc="4007343676" ref="gadgets"/>
+    <file name="videojuego_5328x184.jpg" crc="4200676154" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u4142-74.png" crc="3799401459" ref="gadgets"/>
+    <file name="gadget_1-crop-u30035.jpg" crc="3803451230" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3005-45.png" crc="209435469" ref="gadgets"/>
+    <file name="gadget_2-crop-u30265.jpg" crc="4001398091" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u3028-45.png" crc="3891052576" ref="gadgets"/>
+    <file name="u4370-55.png" crc="239770416" ref="gadgets"/>
+    <file name="u3055-45.png" crc="190338592" ref="gadgets"/>
+    <file name="gadget_3-crop-u30535.jpg" crc="462025433" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u4069-55.png" crc="110479294" ref="gadgets"/>
+    <file name="videojuego_5205x115.jpg" crc="3871464037" seo="true" ref="gadgets">
+      <caption webpage="gadgets" alt=""/>
+    </file>
+    <file name="u4142-75.png" crc="393041146" ref="gadgets"/>
+    <file name="u3086-4.png" crc="4034480561" ref="smartphones"/>
+    <file name="u3109-4.png" crc="4055609317" ref="smartphones"/>
+    <file name="u3134-4.png" crc="4237139554" ref="smartphones"/>
+    <file name="smartphones_1-crop-u3084.jpg" crc="3924702035" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="smartphones_2-crop-u3107.jpg" crc="4022897127" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="smartphones_3-crop-u3132.jpg" crc="4023209370" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u15216-5.png" crc="3867874296" ref="smartphones"/>
+    <file name="u15225-5.png" crc="3867874296" ref="smartphones"/>
+    <file name="u4098-5.png" crc="3923539697" ref="smartphones"/>
+    <file name="smartphones_4.jpg" crc="4017538798" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4148-7.png" crc="4004120179" ref="smartphones"/>
+    <file name="u3086-42.png" crc="4031152761" ref="smartphones"/>
+    <file name="u3109-42.png" crc="3766314794" ref="smartphones"/>
+    <file name="u3134-42.png" crc="49285465" ref="smartphones"/>
+    <file name="smartphones_1-crop-u30842.jpg" crc="4263620249" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="smartphones_2-crop-u31072.jpg" crc="4127337684" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="smartphones_3-crop-u31322.jpg" crc="3894509194" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u15216-52.png" crc="3919982863" ref="smartphones"/>
+    <file name="u15225-52.png" crc="3919982863" ref="smartphones"/>
+    <file name="u4098-52.png" crc="4007126859" ref="smartphones"/>
+    <file name="u4148-72.png" crc="42438695" ref="smartphones"/>
+    <file name="u3086-43.png" crc="155540969" ref="smartphones"/>
+    <file name="u3109-43.png" crc="3958841451" ref="smartphones"/>
+    <file name="smartphones_1-crop-u30843.jpg" crc="4144253806" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="smartphones_2-crop-u31073.jpg" crc="526105399" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u15225-53.png" crc="64221556" ref="smartphones"/>
+    <file name="u3134-43.png" crc="3767986816" ref="smartphones"/>
+    <file name="u15216-53.png" crc="64221556" ref="smartphones"/>
+    <file name="smartphones_3-crop-u31323.jpg" crc="3818140519" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4098-53.png" crc="4176274082" ref="smartphones"/>
+    <file name="smartphones_4419x280.jpg" crc="4176870684" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4148-73.png" crc="4226583168" ref="smartphones"/>
+    <file name="u3086-44.png" crc="357879646" ref="smartphones"/>
+    <file name="u3109-44.png" crc="3956919810" ref="smartphones"/>
+    <file name="smartphones_1-crop-u30844.jpg" crc="259531883" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="smartphones_2-crop-u31074.jpg" crc="4046838587" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u15225-54.png" crc="3943075271" ref="smartphones"/>
+    <file name="u3134-44.png" crc="3867886827" ref="smartphones"/>
+    <file name="u15216-54.png" crc="3882922575" ref="smartphones"/>
+    <file name="smartphones_3-crop-u31324.jpg" crc="380593824" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4098-54.png" crc="3995959626" ref="smartphones"/>
+    <file name="smartphones_4335x224.jpg" crc="4072311661" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4148-74.png" crc="3972737661" ref="smartphones"/>
+    <file name="u3086-45.png" crc="219296323" ref="smartphones"/>
+    <file name="smartphones_1-crop-u30845.jpg" crc="286900670" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u15225-55.png" crc="3998865866" ref="smartphones"/>
+    <file name="u3109-45.png" crc="4111920949" ref="smartphones"/>
+    <file name="smartphones_2-crop-u31075.jpg" crc="348859275" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u3134-45.png" crc="3908537290" ref="smartphones"/>
+    <file name="u15216-55.png" crc="3866572029" ref="smartphones"/>
+    <file name="smartphones_3-crop-u31325.jpg" crc="414339414" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4098-55.png" crc="493588043" ref="smartphones"/>
+    <file name="smartphones_4210x140.jpg" crc="446462876" seo="true" ref="smartphones">
+      <caption webpage="smartphones" alt=""/>
+    </file>
+    <file name="u4148-75.png" crc="380691363" ref="smartphones"/>
+    <file name="background_3.jpg" crc="3890269276" ref="inteligencia-artificial:explorar:spotify:youtube">
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="spotify" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_open.jpg" crc="4219578426" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="logo_dot_csv.jpg" crc="274523656" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="distill.png" crc="4081642388" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="u3554-4.png" crc="474158389" ref="inteligencia-artificial"/>
+    <file name="u3557-4.png" crc="4240857124" ref="inteligencia-artificial"/>
+    <file name="u3560-4.png" crc="2323671" ref="inteligencia-artificial"/>
+    <file name="distill176x177.png" crc="426556240" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="u3563-4.png" crc="272921332" ref="inteligencia-artificial"/>
+    <file name="u3566-4.png" crc="77664848" ref="inteligencia-artificial"/>
+    <file name="u3569-4.png" crc="4216684038" ref="inteligencia-artificial"/>
+    <file name="u3554-42.png" crc="4273651022" ref="inteligencia-artificial"/>
+    <file name="u3557-42.png" crc="533001372" ref="inteligencia-artificial"/>
+    <file name="u3560-42.png" crc="4139397025" ref="inteligencia-artificial"/>
+    <file name="distill141x141.png" crc="214747753" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="u3563-42.png" crc="4001408592" ref="inteligencia-artificial"/>
+    <file name="u3566-42.png" crc="529455108" ref="inteligencia-artificial"/>
+    <file name="u3569-42.png" crc="521067187" ref="inteligencia-artificial"/>
+    <file name="u3554-43.png" crc="3764683061" ref="inteligencia-artificial"/>
+    <file name="u3557-43.png" crc="41815537" ref="inteligencia-artificial"/>
+    <file name="u3563-43.png" crc="4154503318" ref="inteligencia-artificial"/>
+    <file name="u3566-43.png" crc="148293997" ref="inteligencia-artificial"/>
+    <file name="u3560-43.png" crc="3815951808" ref="inteligencia-artificial"/>
+    <file name="distill136x137.png" crc="457484709" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="u3569-43.png" crc="3812305372" ref="inteligencia-artificial"/>
+    <file name="u3554-44.png" crc="252436649" ref="inteligencia-artificial"/>
+    <file name="u3563-44.png" crc="450449322" ref="inteligencia-artificial"/>
+    <file name="u3557-44.png" crc="3960082108" ref="inteligencia-artificial"/>
+    <file name="u3566-44.png" crc="37036837" ref="inteligencia-artificial"/>
+    <file name="u3560-44.png" crc="89754556" ref="inteligencia-artificial"/>
+    <file name="distill148x149.png" crc="4263772413" seo="true" ref="inteligencia-artificial">
+      <caption webpage="inteligencia-artificial" alt=""/>
+    </file>
+    <file name="u3569-44.png" crc="4189215737" ref="inteligencia-artificial"/>
+    <file name="background_2.jpg" crc="7613160" ref="nosotros:contacto">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="logo-mision-crop-u6252.png" crc="285950292" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6251-4.png" crc="200923817" ref="nosotros"/>
+    <file name="logo-vision-crop-u6255.png" crc="3821362845" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6257-4.png" crc="4089200740" ref="nosotros"/>
+    <file name="logo-valores-crop-u6247.png" crc="4154442747" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6249-4.png" crc="3946142182" ref="nosotros"/>
+    <file name="u6243.png" crc="447421546" ref="nosotros"/>
+    <file name="u6243-r.png" crc="134738501" ref="nosotros"/>
+    <file name="logo-mision-crop-u62522.png" crc="4286051434" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6251-42.png" crc="441344130" ref="nosotros"/>
+    <file name="logo-vision-crop-u62552.png" crc="3945339674" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6257-42.png" crc="4165449444" ref="nosotros"/>
+    <file name="logo-valores-crop-u62472.png" crc="525988869" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6249-42.png" crc="519689838" ref="nosotros"/>
+    <file name="u62432.png" crc="536731377" ref="nosotros"/>
+    <file name="u6243-r2.png" crc="4175793535" ref="nosotros"/>
+    <file name="logo-mision-crop-u62523.png" crc="3925670572" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6251-43.png" crc="528075701" ref="nosotros"/>
+    <file name="logo-vision-crop-u62553.png" crc="3782993888" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6257-43.png" crc="328434524" ref="nosotros"/>
+    <file name="logo-valores-crop-u62473.png" crc="4230255178" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6249-43.png" crc="3867254820" ref="nosotros"/>
+    <file name="u62433.png" crc="3869910366" ref="nosotros"/>
+    <file name="u6243-r3.png" crc="350233115" ref="nosotros"/>
+    <file name="logo-mision-crop-u62524.png" crc="149787629" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6251-44.png" crc="4028733386" ref="nosotros"/>
+    <file name="logo-vision-crop-u62554.png" crc="158177736" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6257-44.png" crc="3762733264" ref="nosotros"/>
+    <file name="logo-valores-crop-u62474.png" crc="4147886118" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6249-44.png" crc="56993132" ref="nosotros"/>
+    <file name="u62434.png" crc="275988231" ref="nosotros"/>
+    <file name="u6243-r4.png" crc="247468881" ref="nosotros"/>
+    <file name="logo-mision-crop-u62525.png" crc="4156306883" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6251-45.png" crc="4236204182" ref="nosotros"/>
+    <file name="logo-vision-crop-u62555.png" crc="168276096" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6257-45.png" crc="535227551" ref="nosotros"/>
+    <file name="logo-valores-crop-u62475.png" crc="4030759906" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u6249-45.png" crc="453236459" ref="nosotros"/>
+    <file name="u62435.png" crc="499082222" ref="nosotros"/>
+    <file name="u6243-r5.png" crc="4233787667" ref="nosotros"/>
+    <file name="u4640-4.png" crc="4204284900" ref="explorar"/>
+    <file name="spotify-logo-crop-u3161.png" crc="447123592" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="youtube-logo-crop-u3185.png" crc="3767006069" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="ia_logo.png" crc="128716012" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="u4640-42.png" crc="4173333081" ref="explorar"/>
+    <file name="spotify-logo-crop-u31612.png" crc="3972065015" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="youtube-logo-crop-u31852.png" crc="419293243" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="u4640-43.png" crc="219261204" ref="explorar"/>
+    <file name="spotify-logo-crop-u31613.png" crc="311953458" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="youtube-logo-crop-u31853.png" crc="504512782" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="u4640-44.png" crc="4045100992" ref="explorar"/>
+    <file name="youtube-logo-crop-u31854.png" crc="4089714924" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="spotify-logo-crop-u31614.png" crc="155992608" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="u4640-45.png" crc="3944124248" ref="explorar"/>
+    <file name="youtube-logo-crop-u31855.png" crc="526331620" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="spotify-logo-crop-u31615.png" crc="113879853" seo="true" ref="explorar">
+      <caption webpage="explorar" alt=""/>
+    </file>
+    <file name="metadata_logo-crop-u3261.jpg" crc="492341005" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_edteam-crop-u3274.jpg" crc="248968149" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6469-4.png" crc="193595204" ref="spotify"/>
+    <file name="u6368-4.png" crc="89863164" ref="spotify"/>
+    <file name="ted-crop-u6377.jpg" crc="3775044335" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_1-crop-u6375.jpg" crc="4096769368" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u6373.jpg" crc="328935555" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ted-crop-u6358.jpg" crc="3860627892" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_2-crop-u6362.jpg" crc="4197127134" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u6360.jpg" crc="472541911" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6379-4.png" crc="4088360409" ref="spotify"/>
+    <file name="loading.gif" crc="3815509949" ref="spotify"/>
+    <file name="loop_applesfera-crop-u3284.jpg" crc="533976829" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_applesfera_2-crop-u3291.jpg" crc="4027720204" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="metadata_logo-crop-u32612.jpg" crc="221741620" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_edteam-crop-u32742.jpg" crc="4227447811" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6469-42.png" crc="397018458" ref="spotify"/>
+    <file name="u6368-42.png" crc="75363711" ref="spotify"/>
+    <file name="ted-crop-u63772.jpg" crc="4237774186" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_1-crop-u63752.jpg" crc="83051127" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63732.jpg" crc="256943484" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ted-crop-u63582.jpg" crc="4242213758" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_2-crop-u63622.jpg" crc="12757462" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63602.jpg" crc="3841916686" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6379-42.png" crc="123971911" ref="spotify"/>
+    <file name="loop_applesfera-crop-u32842.jpg" crc="4212928483" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_applesfera_2-crop-u32912.jpg" crc="325409624" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="metadata_logo-crop-u32613.jpg" crc="120170231" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="loop_applesfera-crop-u32843.jpg" crc="294237949" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6469-43.png" crc="331134673" ref="spotify"/>
+    <file name="u6368-43.png" crc="4019252548" ref="spotify"/>
+    <file name="ted-crop-u63773.jpg" crc="418664789" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_1-crop-u63753.jpg" crc="355784579" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63733.jpg" crc="370541508" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ted-crop-u63583.jpg" crc="4290914597" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_2-crop-u63623.jpg" crc="3931676442" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63603.jpg" crc="4280910239" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6379-43.png" crc="213997242" ref="spotify"/>
+    <file name="logo_applesfera_2-crop-u32913.jpg" crc="422257121" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_edteam-crop-u32743.jpg" crc="79534149" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="metadata_logo-crop-u32614.jpg" crc="152043651" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="loop_applesfera-crop-u32844.jpg" crc="4140957616" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6469-44.png" crc="4153286432" ref="spotify"/>
+    <file name="u6368-44.png" crc="113313005" ref="spotify"/>
+    <file name="ted-crop-u63774.jpg" crc="3957226819" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_1-crop-u63754.jpg" crc="4281073298" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63734.jpg" crc="335980550" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ted-crop-u63584.jpg" crc="486823864" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_2-crop-u63624.jpg" crc="4163616771" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63604.jpg" crc="4217055964" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6379-44.png" crc="518141324" ref="spotify"/>
+    <file name="logo_applesfera_2-crop-u32914.jpg" crc="416600685" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_edteam-crop-u32744.jpg" crc="211001620" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="metadata_logo-crop-u32615.jpg" crc="3888943181" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6469-45.png" crc="3813886505" ref="spotify"/>
+    <file name="u6368-45.png" crc="317768733" ref="spotify"/>
+    <file name="ted-crop-u63775.jpg" crc="4062987325" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_1-crop-u63755.jpg" crc="278776297" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63735.jpg" crc="288860868" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ted-crop-u63585.jpg" crc="4105933967" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="xataka_2-crop-u63625.jpg" crc="500204491" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="ia_logo_podcast-crop-u63605.jpg" crc="509391866" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="u6379-45.png" crc="58785542" ref="spotify"/>
+    <file name="loop_applesfera-crop-u32845.jpg" crc="406557872" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_applesfera_2-crop-u32915.jpg" crc="10972640" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="logo_edteam-crop-u32745.jpg" crc="3991074928" seo="true" ref="spotify">
+      <caption webpage="spotify" alt=""/>
+    </file>
+    <file name="topes_gama.jpg" crc="328079174" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_isamarcial210x210.jpg" crc="178218539" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_tu_tecnomundo.jpg" crc="476640452" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_xataka.jpg" crc="79380472" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_isamarcial163x163.jpg" crc="4086799065" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_isamarcial178x178.jpg" crc="3914540008" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_isamarcial168x168.jpg" crc="4233841156" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="logo_isamarcial.jpg" crc="359333498" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="u3927.png" crc="447421546" ref="misión-visión"/>
+    <file name="u3927-r.png" crc="134738501" ref="misión-visión"/>
+    <file name="logo-mision-crop-u5964.png" crc="4027981715" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u5963-4.png" crc="200923817" ref="misión-visión"/>
+    <file name="logo-vision-crop-u6128.png" crc="127487888" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6127-4.png" crc="4089200740" ref="misión-visión"/>
+    <file name="logo-valores-crop-u6141.png" crc="4154442747" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6140-4.png" crc="3946142182" ref="misión-visión"/>
+    <file name="u39272.png" crc="536731377" ref="misión-visión"/>
+    <file name="u3927-r2.png" crc="4175793535" ref="misión-visión"/>
+    <file name="logo-mision-crop-u59642.png" crc="4139387984" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u5963-42.png" crc="523638182" ref="misión-visión"/>
+    <file name="logo-vision-crop-u61282.png" crc="160402607" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6127-42.png" crc="73175337" ref="misión-visión"/>
+    <file name="logo-valores-crop-u61412.png" crc="525988869" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6140-42.png" crc="4121749727" ref="misión-visión"/>
+    <file name="u39273.png" crc="117479137" ref="misión-visión"/>
+    <file name="u3927-r3.png" crc="322951617" ref="misión-visión"/>
+    <file name="logo-mision-crop-u59643.png" crc="74897681" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u5963-43.png" crc="4183673781" ref="misión-visión"/>
+    <file name="logo-vision-crop-u61283.png" crc="3837747504" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6127-43.png" crc="349374532" ref="misión-visión"/>
+    <file name="logo-valores-crop-u61413.png" crc="492575599" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6140-43.png" crc="416176939" ref="misión-visión"/>
+    <file name="u39274.png" crc="518842247" ref="misión-visión"/>
+    <file name="u3927-r4.png" crc="4118053578" ref="misión-visión"/>
+    <file name="logo-mision-crop-u59644.png" crc="4067947553" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u5963-44.png" crc="3922177972" ref="misión-visión"/>
+    <file name="logo-vision-crop-u61284.png" crc="85183776" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6127-44.png" crc="188688761" ref="misión-visión"/>
+    <file name="logo-valores-crop-u61414.png" crc="3871554997" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6140-44.png" crc="327026052" ref="misión-visión"/>
+    <file name="u39275.png" crc="4204842364" ref="misión-visión"/>
+    <file name="u3927-r5.png" crc="3860469064" ref="misión-visión"/>
+    <file name="logo-mision-crop-u59645.png" crc="3776725175" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u5963-45.png" crc="179249646" ref="misión-visión"/>
+    <file name="logo-vision-crop-u61285.png" crc="377480231" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6127-45.png" crc="3828599203" ref="misión-visión"/>
+    <file name="logo-valores-crop-u61415.png" crc="272876051" seo="true" ref="misión-visión">
+      <caption webpage="misión-visión" alt=""/>
+    </file>
+    <file name="u6140-45.png" crc="3892999809" ref="misión-visión"/>
+    <file name="sonido_2.png" crc="418340834" seo="true" ref="audio---tecnews">
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+    </file>
+    <file name="u4391-4.png" crc="343474329" ref="audio---tecnews"/>
+    <file name="sonido.png" crc="3789297054" seo="true" ref="audio---tecnews">
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+    </file>
+    <file name="microfono.png" crc="338218205" seo="true" ref="audio---tecnews">
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+    </file>
+    <file name="descargar.png" crc="4072589870" seo="true" ref="audio---tecnews">
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+      <caption webpage="audio---tecnews" alt=""/>
+    </file>
+    <file name="u4391-42.png" crc="67516672" ref="audio---tecnews"/>
+    <file name="u4391-43.png" crc="229693588" ref="audio---tecnews"/>
+    <file name="u4391-44.png" crc="4190674691" ref="audio---tecnews"/>
+    <file name="u4391-45.png" crc="408327216" ref="audio---tecnews"/>
+    <file name="u4317-5.png" crc="335636314" ref="terminos-y-condiciones"/>
+    <file name="u4291-5.png" crc="299893087" ref="terminos-y-condiciones"/>
+    <file name="u4317-52.png" crc="4010847136" ref="terminos-y-condiciones"/>
+    <file name="u4291-52.png" crc="3869821484" ref="terminos-y-condiciones"/>
+    <file name="u4317-53.png" crc="4098038313" ref="terminos-y-condiciones"/>
+    <file name="u4291-53.png" crc="290330196" ref="terminos-y-condiciones"/>
+    <file name="u4317-54.png" crc="3797775631" ref="terminos-y-condiciones"/>
+    <file name="u4291-54.png" crc="4168711521" ref="terminos-y-condiciones"/>
+    <file name="u4317-55.png" crc="318000252" ref="terminos-y-condiciones"/>
+    <file name="u4291-55.png" crc="277195456" ref="terminos-y-condiciones"/>
+    <file name="u4327-5.png" crc="335636314" ref="políticas-de-privacidad"/>
+    <file name="u4321-5.png" crc="4259827155" ref="políticas-de-privacidad"/>
+    <file name="u4327-52.png" crc="4043717255" ref="políticas-de-privacidad"/>
+    <file name="u4321-52.png" crc="192733596" ref="políticas-de-privacidad"/>
+    <file name="u4327-53.png" crc="4115162351" ref="políticas-de-privacidad"/>
+    <file name="u4321-53.png" crc="501391347" ref="políticas-de-privacidad"/>
+    <file name="u4327-54.png" crc="4122231956" ref="políticas-de-privacidad"/>
+    <file name="u4321-54.png" crc="294136330" ref="políticas-de-privacidad"/>
+    <file name="u4327-55.png" crc="335636314" ref="políticas-de-privacidad"/>
+    <file name="u4321-55.png" crc="3809430608" ref="políticas-de-privacidad"/>
+  </folder>
+  <file name="index.html" crc="366992743" seo="true" mt="1613945382211" redirect="true"/>
+  <file name="noticias-día.html" crc="484251755" seo="true" mt="1613616708635" redirect="true"/>
+  <file name="videojuegos.html" crc="438573670" seo="true" mt="1613923536075" redirect="true"/>
+  <file name="gadgets.html" crc="3954371888" seo="true" mt="1613924650444" redirect="true"/>
+  <file name="smartphones.html" crc="3954577646" seo="true" mt="1613945518983" redirect="true"/>
+  <file name="inteligencia-artificial.html" crc="295306954" seo="true" mt="1613929961987" redirect="true"/>
+  <file name="nosotros.html" crc="279146475" seo="true" mt="1613945653112" redirect="true"/>
+  <file name="explorar.html" crc="4219164123" seo="true" mt="1613945552129" redirect="true"/>
+  <file name="spotify.html" crc="4220170211" seo="true" mt="1613945577005" redirect="true"/>
+  <file name="youtube.html" crc="179045358" seo="true" mt="1613927837064" redirect="true"/>
+  <file name="misión-visión.html" crc="3872932428" seo="true" mt="1613614274485" redirect="true"/>
+  <file name="contacto.html" crc="4203831799" seo="true" mt="1613942520372" redirect="true"/>
+  <file name="audio---tecnews.html" crc="3821408569" seo="true" mt="1613940179416" redirect="true"/>
+  <file name="terminos-y-condiciones.html" crc="4215019097" seo="true" mt="1613942725584" redirect="true"/>
+  <file name="políticas-de-privacidad.html" crc="535005583" seo="true" mt="1613942925410" redirect="true"/>
+  <file name="preguntas_frecuentes.html" crc="510152386" seo="true" mt="1613941319186" redirect="true"/>
+  <file name="lanzamientos.html" crc="4059323278" seo="true" mt="1613941216117" redirect="true"/>
+</manifest>
